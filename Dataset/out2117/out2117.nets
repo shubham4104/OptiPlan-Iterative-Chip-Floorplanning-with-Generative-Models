@@ -1,0 +1,649 @@
+UCLA nets   1.0
+
+
+NumNets : 123
+NumPins : 520
+
+NetDegree : 34  N0
+GND@1 B : 	%0	 %0
+bk9d B : 	%-50	 %33.3
+bk9c B : 	%8.8	 %50
+bk9b B : 	%38.2	 %50
+bk9a B : 	%26.9	 %-50
+bk8b B : 	%0	 %-50
+bk8a B : 	%0	 %-50
+bk7 B : 	%50	 %35.7
+bk6 B : 	%50	 %16.6
+bk5c B : 	%50	 %10.6
+bk5b B : 	%30	 %-50
+bk5a B : 	%50	 %0
+bk4 B : 	%-31.2	 %50
+bk3 B : 	%-50	 %38.8
+bk21 B : 	%38.8	 %50
+bk20 B : 	%-50	 %30
+bk2 B : 	%50	 %-2.3
+bk19 B : 	%50	 %8.8
+bk18 B : 	%7.6	 %50
+bk17b B : 	%7.6	 %50
+bk17a B : 	%-12.2	 %50
+bk16 B : 	%50	 %5.5
+bk15b B : 	%50	 %12.5
+bk15a B : 	%50	 %15.7
+bk14c B : 	%-6.5	 %50
+bk14b B : 	%21.4	 %-50
+bk14a B : 	%-14.2	 %50
+bk13 B : 	%50	 %-7.7
+bk12 B : 	%50	 %-15.5
+bk11 B : 	%-9.9	 %-50
+bk10c B : 	%8.8	 %50
+bk10b B : 	%-50	 %0
+bk10a B : 	%24	 %-50
+bk1 B : 	%2	 %-50
+NetDegree : 56  N1
+bk9d B : 	%-44.1	 %-50
+bk9c B : 	%50	 %44.1
+bk9c B : 	%-50	 %44.1
+bk9b B : 	%50	 %44.1
+bk9b B : 	%-50	 %44.1
+bk9a B : 	%50	 %-44.1
+bk9a B : 	%-50	 %-44.1
+bk7 B : 	%42.3	 %50
+bk7 B : 	%42.3	 %-50
+bk6 B : 	%13.1	 %-50
+bk6 B : 	%-39.4	 %50
+bk5c B : 	%39.4	 %50
+bk5c B : 	%39.4	 %-50
+bk5b B : 	%50	 %34.2
+bk5b B : 	%-50	 %34.2
+bk5a B : 	%-34.2	 %-50
+bk4 B : 	%50	 %-34.2
+bk4 B : 	%-50	 %-34.2
+bk3 B : 	%39.4	 %50
+bk3 B : 	%39.4	 %-50
+bk21 B : 	%50	 %30
+bk21 B : 	%-50	 %30
+bk20 B : 	%-38.4	 %50
+bk20 B : 	%-38.4	 %-50
+bk2 B : 	%-34.2	 %50
+bk2 B : 	%-34.2	 %-50
+bk18 B : 	%50	 %-39.6
+bk18 B : 	%-50	 %-39.6
+bk17b B : 	%-50	 %-39.6
+bk17a B : 	%50	 %-38.4
+bk17a B : 	%-50	 %-38.4
+bk16 B : 	%8.8	 %50
+bk16 B : 	%8.8	 %-50
+bk15b B : 	%-44.1	 %50
+bk15b B : 	%-44.1	 %-50
+bk15a B : 	%-44.1	 %50
+bk15a B : 	%-44.1	 %-50
+bk14c B : 	%50	 %-44.1
+bk14c B : 	%-50	 %-44.1
+bk14b B : 	%50	 %44.1
+bk14b B : 	%-50	 %44.1
+bk14a B : 	%50	 %-38.2
+bk14a B : 	%-50	 %-38.2
+bk13 B : 	%-30	 %-50
+bk12 B : 	%-45	 %50
+bk12 B : 	%-45	 %-50
+bk11 B : 	%50	 %44.1
+bk11 B : 	%-50	 %44.1
+bk10c B : 	%44.1	 %50
+bk10c B : 	%44.1	 %-50
+bk10b B : 	%50	 %44.9
+bk10b B : 	%-50	 %44.9
+bk10a B : 	%50	 %-44.1
+bk10a B : 	%-50	 %-44.1
+bk1 B : 	%50	 %-39.4
+bk1 B : 	%-50	 %-39.4
+NetDegree : 47  N2
+bk9d B : 	%-38.2	 %-50
+bk9c B : 	%50	 %38.2
+bk9c B : 	%-50	 %38.2
+bk9b B : 	%50	 %38.2
+bk9b B : 	%-50	 %38.2
+bk9a B : 	%50	 %-38.2
+bk9a B : 	%-50	 %-38.2
+bk7 B : 	%46.1	 %50
+bk7 B : 	%46.1	 %-50
+bk6 B : 	%-44.7	 %50
+bk6 B : 	%-44.7	 %-50
+bk5c B : 	%44.7	 %-50
+bk5b B : 	%50	 %-39.4
+bk5b B : 	%-50	 %-39.4
+bk5a B : 	%-39.4	 %50
+bk5a B : 	%-39.4	 %-50
+bk4 B : 	%50	 %-39.4
+bk4 B : 	%-50	 %-39.4
+bk3 B : 	%44.7	 %50
+bk3 B : 	%44.7	 %-50
+bk21 B : 	%50	 %25
+bk21 B : 	%-50	 %25
+bk20 B : 	%-42.3	 %50
+bk20 B : 	%-42.3	 %-50
+bk2 B : 	%-39.4	 %50
+bk2 B : 	%-39.4	 %-50
+bk18 B : 	%50	 %-43.1
+bk18 B : 	%-50	 %-43.1
+bk17b B : 	%50	 %-43.1
+bk17b B : 	%-50	 %-43.1
+bk17a B : 	%50	 %-42.3
+bk17a B : 	%-50	 %-42.3
+bk14b B : 	%50	 %-38.2
+bk14b B : 	%-50	 %-38.2
+bk13 B : 	%-25	 %50
+bk13 B : 	%-25	 %-50
+bk12 B : 	%-25	 %50
+bk11 B : 	%50	 %38.2
+bk11 B : 	%-50	 %38.2
+bk10c B : 	%38.2	 %-50
+bk10c B : 	%-20.5	 %50
+bk10b B : 	%50	 %40
+bk10b B : 	%-50	 %40
+bk10a B : 	%50	 %20.5
+bk10a B : 	%-50	 %-38.2
+bk1 B : 	%50	 %-44.7
+bk1 B : 	%-50	 %-44.7
+NetDegree : 50  N3
+bk9d B : 	%44.1	 %-50
+bk9c B : 	%50	 %-44.1
+bk9c B : 	%-50	 %-44.1
+bk9b B : 	%50	 %-44.1
+bk9b B : 	%-50	 %-38.2
+bk9a B : 	%50	 %38.2
+bk9a B : 	%-50	 %38.2
+bk7 B : 	%-46.1	 %-50
+bk6 B : 	%28.9	 %50
+bk6 B : 	%28.9	 %-50
+bk5c B : 	%-28.9	 %-50
+bk5b B : 	%50	 %-34.2
+bk5b B : 	%-50	 %-34.2
+bk5a B : 	%34.2	 %50
+bk5a B : 	%34.2	 %-50
+bk4 B : 	%50	 %34.2
+bk4 B : 	%-50	 %34.2
+bk3 B : 	%-28.9	 %50
+bk3 B : 	%-28.9	 %-50
+bk21 B : 	%50	 %-45
+bk21 B : 	%-50	 %-45
+bk20 B : 	%42.3	 %-50
+bk2 B : 	%34.2	 %50
+bk2 B : 	%34.2	 %-50
+bk18 B : 	%50	 %32.7
+bk18 B : 	%-50	 %32.7
+bk17b B : 	%-50	 %32.7
+bk17a B : 	%50	 %42.3
+bk17a B : 	%-50	 %42.3
+bk15b B : 	%44.1	 %50
+bk15b B : 	%44.1	 %-50
+bk15a B : 	%38.2	 %-50
+bk14c B : 	%50	 %44.1
+bk14c B : 	%-50	 %44.1
+bk14b B : 	%50	 %-44.1
+bk14b B : 	%-50	 %-44.1
+bk14a B : 	%50	 %44.1
+bk14a B : 	%-50	 %44.1
+bk13 B : 	%44.9	 %-50
+bk12 B : 	%44.9	 %50
+bk12 B : 	%44.9	 %-50
+bk11 B : 	%50	 %-44.1
+bk11 B : 	%-50	 %-44.1
+bk10c B : 	%-38.2	 %-50
+bk10b B : 	%50	 %-45
+bk10b B : 	%-50	 %-45
+bk10a B : 	%50	 %38.2
+bk10a B : 	%-50	 %38.2
+bk1 B : 	%50	 %28.9
+bk1 B : 	%-50	 %28.9
+NetDegree : 44  N4
+bk9d B : 	%38.2	 %-50
+bk9c B : 	%50	 %-38.2
+bk9c B : 	%-50	 %-38.2
+bk9b B : 	%50	 %-38.2
+bk9b B : 	%-50	 %-44.1
+bk9a B : 	%50	 %44.1
+bk9a B : 	%-50	 %44.1
+bk7 B : 	%-42.3	 %-50
+bk6 B : 	%34.2	 %-50
+bk5c B : 	%-34.2	 %-50
+bk5b B : 	%50	 %39.4
+bk5b B : 	%-50	 %39.4
+bk5a B : 	%39.4	 %-50
+bk4 B : 	%50	 %39.4
+bk4 B : 	%-50	 %39.4
+bk3 B : 	%-34.2	 %50
+bk3 B : 	%-34.2	 %-50
+bk21 B : 	%50	 %-40
+bk21 B : 	%-50	 %-40
+bk20 B : 	%46.1	 %50
+bk20 B : 	%46.1	 %-50
+bk2 B : 	%39.4	 %50
+bk2 B : 	%39.4	 %-50
+bk18 B : 	%50	 %36.2
+bk18 B : 	%-50	 %36.2
+bk17b B : 	%50	 %36.2
+bk17b B : 	%-50	 %36.2
+bk17a B : 	%50	 %46.1
+bk17a B : 	%-50	 %46.1
+bk14b B : 	%50	 %38.2
+bk14b B : 	%-50	 %38.2
+bk13 B : 	%40	 %50
+bk13 B : 	%40	 %-50
+bk12 B : 	%35	 %50
+bk11 B : 	%50	 %-38.2
+bk11 B : 	%-50	 %-38.2
+bk10c B : 	%-44.1	 %50
+bk10c B : 	%-44.1	 %-50
+bk10b B : 	%50	 %-40
+bk10b B : 	%-50	 %-40
+bk10a B : 	%50	 %44.1
+bk10a B : 	%-50	 %44.1
+bk1 B : 	%50	 %34.2
+bk1 B : 	%-50	 %34.2
+NetDegree : 2  N5
+bk9d B : 	%32.3	 %50
+bk9c B : 	%-50	 %-32.3
+NetDegree : 34  N6
+POW@1 B : 	%0	 %0
+bk9d B : 	%50	 %33.3
+bk9c B : 	%-46	 %50
+bk9b B : 	%-38.2	 %50
+bk9a B : 	%-30.7	 %-50
+bk8b B : 	%50	 %-3.7
+bk8a B : 	%-50	 %0
+bk7 B : 	%-50	 %35.7
+bk6 B : 	%50	 %-45.5
+bk5c B : 	%-50	 %10.6
+bk5b B : 	%-30	 %-50
+bk5a B : 	%-50	 %0
+bk4 B : 	%-31.2	 %-50
+bk3 B : 	%-50	 %-16.6
+bk21 B : 	%-38.8	 %50
+bk20 B : 	%-50	 %-40
+bk2 B : 	%-50	 %-2.3
+bk19 B : 	%-50	 %8.8
+bk18 B : 	%7.6	 %-50
+bk17b B : 	%7.6	 %-50
+bk17a B : 	%-12.2	 %-50
+bk16 B : 	%-50	 %5.5
+bk15b B : 	%50	 %-39.5
+bk15a B : 	%50	 %-23.6
+bk14c B : 	%-6.5	 %-50
+bk14b B : 	%-38	 %-50
+bk14a B : 	%-14.2	 %-50
+bk13 B : 	%-50	 %-7.7
+bk12 B : 	%-50	 %-15.5
+bk11 B : 	%-42	 %50
+bk10c B : 	%-50	 %-7.1
+bk10b B : 	%-45.6	 %-50
+bk10a B : 	%-31.4	 %-50
+bk1 B : 	%-18.7	 %-50
+NetDegree : 2  N7
+bk9d B : 	%50	 %-41.6
+bk10a B : 	%-50	 %20.5
+NetDegree : 2  N8
+bk9d B : 	%2.9	 %50
+bk9b B : 	%50	 %2.9
+NetDegree : 2  N9
+P30 B : 	%0	 %0
+bk9c B : 	%48	 %50
+NetDegree : 2  N10
+P27 B : 	%0	 %0
+bk9c B : 	%-50	 %14.7
+NetDegree : 9  N11
+bk9c B : 	%50	 %-8.8
+bk9c B : 	%28.4	 %-50
+bk9b B : 	%-44.1	 %-50
+bk20 B : 	%50	 %24
+bk14b B : 	%-50	 %-8.8
+bk12 B : 	%0	 %-50
+bk11 B : 	%50	 %-8.8
+bk10b B : 	%50	 %0
+bk10b B : 	%-6.5	 %-50
+NetDegree : 2  N12
+bk9c B : 	%-50	 %-14.7
+bk9a B : 	%-38.4	 %50
+NetDegree : 2  N13
+bk9c B : 	%-48	 %-50
+bk9b B : 	%-2.9	 %-50
+NetDegree : 2  N14
+bk9b B : 	%-50	 %-14.7
+bk10a B : 	%-50	 %14.7
+NetDegree : 4  N15
+bk9b B : 	%-50	 %-8.8
+bk10b B : 	%28.2	 %50
+bk10b B : 	%-19.5	 %50
+bk10a B : 	%-50	 %8.8
+NetDegree : 2  N16
+bk9a B : 	%50	 %-20.5
+bk10c B : 	%32.3	 %-50
+NetDegree : 2  N17
+bk8b B : 	%-50	 %-18.5
+bk8a B : 	%50	 %3.3
+NetDegree : 2  N18
+bk8b B : 	%-50	 %-16.6
+bk8a B : 	%50	 %6.6
+NetDegree : 2  N19
+bk8b B : 	%-50	 %-14.8
+bk8a B : 	%50	 %9.9
+NetDegree : 2  N20
+bk8b B : 	%-50	 %-12.9
+bk8a B : 	%50	 %13.3
+NetDegree : 2  N21
+bk8b B : 	%-50	 %-11.1
+bk8a B : 	%50	 %16.6
+NetDegree : 2  N22
+bk8b B : 	%-50	 %-9.2
+bk8a B : 	%50	 %19.9
+NetDegree : 2  N23
+bk8b B : 	%-50	 %-7.4
+bk8a B : 	%50	 %23.3
+NetDegree : 3  N24
+bk8b B : 	%-38.8	 %50
+bk19 B : 	%-16.6	 %50
+bk16 B : 	%-32.3	 %50
+NetDegree : 3  N25
+bk8b B : 	%-44.4	 %50
+bk19 B : 	%-33.3	 %50
+bk16 B : 	%-38.2	 %50
+NetDegree : 2  N26
+bk8b B : 	%-22.2	 %50
+bk19 B : 	%0	 %50
+NetDegree : 2  N27
+bk8b B : 	%-11.1	 %50
+bk19 B : 	%33.3	 %50
+NetDegree : 2  N28
+bk8b B : 	%0	 %50
+bk19 B : 	%16.6	 %50
+NetDegree : 2  N29
+bk8b B : 	%11.1	 %50
+bk19 B : 	%41.6	 %50
+NetDegree : 2  N30
+bk8b B : 	%-50	 %-31.4
+bk8a B : 	%50	 %-20
+NetDegree : 2  N31
+bk8b B : 	%-50	 %-29.6
+bk8a B : 	%50	 %-16.6
+NetDegree : 2  N32
+bk8b B : 	%-50	 %-27.7
+bk8a B : 	%50	 %-13.3
+NetDegree : 2  N33
+bk8b B : 	%-50	 %-25.9
+bk8a B : 	%50	 %-9.9
+NetDegree : 2  N34
+bk8b B : 	%-50	 %-24
+bk8a B : 	%50	 %-6.6
+NetDegree : 2  N35
+bk8b B : 	%-50	 %-22.2
+bk8a B : 	%50	 %-3.3
+NetDegree : 2  N36
+bk8b B : 	%-50	 %-20.3
+bk8a B : 	%50	 %0
+NetDegree : 3  N37
+bk8a B : 	%-3.3	 %50
+bk20 B : 	%50	 %-30
+bk16 B : 	%26.4	 %-50
+NetDegree : 2  N38
+bk8a B : 	%3.3	 %50
+bk16 B : 	%38.2	 %-50
+NetDegree : 2  N39
+bk8a B : 	%-20	 %50
+bk16 B : 	%-2.9	 %-50
+NetDegree : 2  N40
+bk8a B : 	%-16.6	 %50
+bk16 B : 	%2.9	 %-50
+NetDegree : 2  N41
+bk8a B : 	%-43.3	 %50
+bk16 B : 	%-44.1	 %-50
+NetDegree : 2  N42
+bk8a B : 	%-40	 %50
+bk16 B : 	%-38.2	 %-50
+NetDegree : 2  N43
+bk8a B : 	%-36.6	 %50
+bk16 B : 	%-32.3	 %-50
+NetDegree : 3  N44
+bk8a B : 	%-30	 %50
+bk16 B : 	%-20.5	 %-50
+bk15b B : 	%-20.5	 %50
+NetDegree : 2  N45
+VSS B : 	%0	 %0
+bk7 B : 	%-30.7	 %50
+NetDegree : 2  N46
+VDD B : 	%0	 %0
+bk7 B : 	%-50	 %0
+NetDegree : 2  N47
+P23 B : 	%0	 %0
+bk7 B : 	%-23	 %50
+NetDegree : 2  N48
+P22 B : 	%0	 %0
+bk7 B : 	%23	 %50
+NetDegree : 2  N49
+bk7 B : 	%15.3	 %50
+bk17b B : 	%50	 %1.7
+NetDegree : 2  N50
+P21 B : 	%0	 %0
+bk6 B : 	%-28.9	 %50
+NetDegree : 2  N51
+P20 B : 	%0	 %0
+bk6 B : 	%-50	 %25.5
+NetDegree : 2  N52
+P19 B : 	%0	 %0
+bk6 B : 	%-18.4	 %50
+NetDegree : 2  N53
+P18 B : 	%0	 %0
+bk6 B : 	%-13.1	 %50
+NetDegree : 2  N54
+P17 B : 	%0	 %0
+bk6 B : 	%-50	 %-18.8
+NetDegree : 2  N55
+bk6 B : 	%-13.1	 %-50
+bk5c B : 	%13.1	 %-50
+NetDegree : 2  N56
+bk6 B : 	%-23.6	 %-50
+bk5c B : 	%23.6	 %-50
+NetDegree : 3  N57
+bk6 B : 	%2.6	 %-50
+bk5c B : 	%-2.6	 %50
+bk5b B : 	%-18	 %50
+NetDegree : 3  N58
+bk6 B : 	%7.8	 %-50
+bk5c B : 	%-23.6	 %50
+bk5b B : 	%-9.9	 %50
+NetDegree : 3  N59
+bk6 B : 	%-7.8	 %-50
+bk4 B : 	%-48.7	 %50
+bk3 B : 	%2.6	 %-50
+NetDegree : 2  N60
+bk6 B : 	%50	 %45.5
+bk4 B : 	%47.5	 %50
+NetDegree : 2  N61
+bk5c B : 	%34.2	 %50
+bk3 B : 	%-7.8	 %-50
+NetDegree : 2  N62
+bk5b B : 	%50	 %-18.4
+bk5a B : 	%-18.4	 %50
+NetDegree : 2  N63
+bk5b B : 	%50	 %2.6
+bk5b B : 	%50	 %-23.6
+NetDegree : 3  N64
+bk5b B : 	%50	 %7.8
+bk5a B : 	%7.8	 %50
+bk2 B : 	%13.1	 %-50
+NetDegree : 2  N65
+bk5b B : 	%-14	 %50
+bk1 B : 	%-16.6	 %50
+NetDegree : 2  N66
+bk5b B : 	%50	 %18.4
+bk5a B : 	%18.4	 %50
+NetDegree : 2  N67
+bk5b B : 	%-50	 %-13.1
+bk1 B : 	%-50	 %-18.4
+NetDegree : 2  N68
+bk5b B : 	%-30	 %50
+bk1 B : 	%31.2	 %50
+NetDegree : 2  N69
+bk5a B : 	%23.6	 %50
+bk2 B : 	%28.9	 %-50
+NetDegree : 2  N70
+bk5a B : 	%23.6	 %-50
+bk4 B : 	%-50	 %23.6
+NetDegree : 2  N71
+P14 B : 	%0	 %0
+bk4 B : 	%50	 %-13.1
+NetDegree : 2  N72
+P13 B : 	%0	 %0
+bk4 B : 	%50	 %-23.6
+NetDegree : 2  N73
+P12 B : 	%0	 %0
+bk4 B : 	%50	 %-28.9
+NetDegree : 2  N74
+bk4 B : 	%-50	 %-23.6
+bk17b B : 	%50	 %12
+NetDegree : 2  N75
+bk4 B : 	%-50	 %-13.1
+bk3 B : 	%-50	 %-47.7
+NetDegree : 2  N76
+P16 B : 	%0	 %0
+bk3 B : 	%50	 %-43.3
+NetDegree : 2  N77
+P15 B : 	%0	 %0
+bk3 B : 	%50	 %-47.7
+NetDegree : 2  N78
+bk3 B : 	%-23.6	 %-50
+bk15a B : 	%-20.5	 %-50
+NetDegree : 2  N79
+P3 B : 	%0	 %0
+bk21 B : 	%-27.7	 %-50
+NetDegree : 2  N80
+P24 B : 	%0	 %0
+bk20 B : 	%15.3	 %-50
+NetDegree : 3  N81
+bk20 B : 	%30.7	 %-50
+bk18 B : 	%50	 %22.4
+bk17b B : 	%-50	 %22.4
+NetDegree : 2  N82
+bk20 B : 	%-3.8	 %-50
+bk17a B : 	%-50	 %-3.8
+NetDegree : 2  N83
+bk20 B : 	%-15.3	 %-50
+bk17a B : 	%-50	 %-15.3
+NetDegree : 2  N84
+bk20 B : 	%-7.6	 %-50
+bk17a B : 	%-50	 %-7.6
+NetDegree : 3  N85
+bk20 B : 	%26.9	 %-50
+bk18 B : 	%-50	 %18.9
+bk17a B : 	%-50	 %26.9
+NetDegree : 2  N86
+bk20 B : 	%3.8	 %-50
+bk17a B : 	%-50	 %3.8
+NetDegree : 4  N87
+bk20 B : 	%19.2	 %-50
+bk18 B : 	%-50	 %12
+bk17b B : 	%-50	 %12
+bk17a B : 	%-50	 %19.2
+NetDegree : 2  N88
+P28 B : 	%0	 %0
+bk2 B : 	%-2.6	 %-50
+NetDegree : 2  N89
+P35 B : 	%0	 %0
+bk19 B : 	%8.3	 %-50
+NetDegree : 2  N90
+P34 B : 	%0	 %0
+bk19 B : 	%-8.3	 %-50
+NetDegree : 2  N91
+P33 B : 	%0	 %0
+bk19 B : 	%-25	 %-50
+NetDegree : 2  N92
+P32 B : 	%0	 %0
+bk19 B : 	%-41.6	 %-50
+NetDegree : 2  N93
+P37 B : 	%0	 %0
+bk18 B : 	%50	 %-32.7
+NetDegree : 2  N94
+P36 B : 	%0	 %0
+bk18 B : 	%50	 %-36.2
+NetDegree : 2  N95
+bk18 B : 	%-50	 %-1.7
+bk17a B : 	%50	 %3.8
+NetDegree : 2  N96
+bk18 B : 	%-50	 %-32.7
+bk17a B : 	%50	 %-30.7
+NetDegree : 2  N97
+bk17b B : 	%50	 %8.6
+bk16 B : 	%14.7	 %-50
+NetDegree : 2  N98
+bk16 B : 	%-26.4	 %-50
+bk14c B : 	%-50	 %-14.7
+NetDegree : 2  N99
+bk16 B : 	%44.1	 %-50
+bk14b B : 	%45.2	 %50
+NetDegree : 2  N100
+bk16 B : 	%32.3	 %-50
+bk14b B : 	%33.3	 %50
+NetDegree : 2  N101
+P9 B : 	%0	 %0
+bk15b B : 	%-50	 %-8.3
+NetDegree : 2  N102
+P8 B : 	%0	 %0
+bk15b B : 	%-50	 %-41.6
+NetDegree : 2  N103
+P25 B : 	%0	 %0
+bk15b B : 	%-38.2	 %50
+NetDegree : 2  N104
+P11 B : 	%0	 %0
+bk15b B : 	%-50	 %47.9
+NetDegree : 2  N105
+P10 B : 	%0	 %0
+bk15b B : 	%-50	 %14.5
+NetDegree : 2  N106
+bk15b B : 	%-20.5	 %-50
+bk15a B : 	%-20.5	 %50
+NetDegree : 2  N107
+bk15b B : 	%-26.4	 %50
+bk14c B : 	%50	 %-14.7
+NetDegree : 2  N108
+P7 B : 	%0	 %0
+bk15a B : 	%-50	 %44.7
+NetDegree : 2  N109
+P6 B : 	%0	 %0
+bk15a B : 	%-50	 %13.1
+NetDegree : 2  N110
+P5 B : 	%0	 %0
+bk15a B : 	%-32.3	 %-50
+NetDegree : 2  N111
+bk15a B : 	%-32.3	 %50
+bk14a B : 	%-50	 %38.2
+NetDegree : 2  N112
+bk14c B : 	%50	 %8.8
+bk14b B : 	%-23.8	 %50
+NetDegree : 2  N113
+bk14c B : 	%50	 %2.9
+bk14b B : 	%-14.2	 %50
+NetDegree : 2  N114
+bk14b B : 	%-33.3	 %50
+bk14a B : 	%50	 %-26.4
+NetDegree : 2  N115
+P4 B : 	%0	 %0
+bk13 B : 	%30	 %50
+NetDegree : 2  N116
+P26 B : 	%0	 %0
+bk13 B : 	%50	 %38.7
+NetDegree : 2  N117
+P2 B : 	%0	 %0
+bk13 B : 	%15	 %50
+NetDegree : 2  N118
+P31 B : 	%0	 %0
+bk11 B : 	%42	 %50
+NetDegree : 2  N119
+bk10c B : 	%26.4	 %-50
+bk10b B : 	%-28.2	 %50
+NetDegree : 2  N120
+bk10c B : 	%14.7	 %-50
+bk10a B : 	%-50	 %-14.7
+NetDegree : 2  N121
+bk10b B : 	%45.6	 %50
+bk10a B : 	%-50	 %-20.5
+NetDegree : 2  N122
+P29 B : 	%0	 %0
+bk10a B : 	%-46.2	 %50
